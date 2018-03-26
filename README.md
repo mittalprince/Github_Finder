@@ -1,0 +1,2 @@
+# Gituhb_Finder
+A simple webapp using jquerry, ajax to search github profiles by username, show their full profile, latest 5 repo with repo link.  
